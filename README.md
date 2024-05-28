@@ -1,1 +1,1 @@
-Deafios em desenvolvimento durante o curso Fullstack - professor Kelson. 
+Desafios em desenvolvimento durante o curso Fullstack - professor Kelson. 
